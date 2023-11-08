@@ -1,2 +1,2 @@
-# WecSocket
-chat
+# WebSocket
+chat システムを作ります。
